@@ -13,5 +13,10 @@ React useReducer
   - https://dev.classmethod.jp/articles/react-usereducer-form/
 
 - branch name: feat/item
+
   - 複雑な状態管理を効率化する方法と実践例
   - https://tanabatablog.com/react-usereducer/
+
+- branch name: feat/todo
+  - useReducer を理解しよう
+  - useReducer を理解しよう
