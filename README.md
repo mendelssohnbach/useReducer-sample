@@ -4,7 +4,7 @@ React useReducer
 
 - branch name: feat/curry
 
-  - useRebranch nameducer+Typescript に慣れよう
+  - useReducer+Typescript に慣れよう
   - https://zenn.dev/sorye/articles/usereducer-practice
 
 - branch name: feat/form
